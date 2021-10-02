@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-base91": "^0.3.4",
+    "sharp": "^0.29.1"
+  }
+}
